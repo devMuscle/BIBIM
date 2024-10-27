@@ -3,7 +3,7 @@
 ```shell
 pip install SRTrain
 ```
-2. 라인에서 알림용 토큰 발급 받기 <br>
+2. 라인에서 알림용 토큰 발급 받아 token 변수의 값에 넣어주기 <br>
 https://velog.io/@denver_almighty/%EB%9D%BC%EC%9D%B8-Notify-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0 참조
 (현재 예약시 알림이 정상 발송이 안되는 오류 존재, 또한 라인 알림 서비스 만료에 맞춰 마이그레이션 필요)
 
