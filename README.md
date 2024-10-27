@@ -7,7 +7,9 @@ pip install SRTrain
 https://velog.io/@denver_almighty/%EB%9D%BC%EC%9D%B8-Notify-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0 참조
 (현재 예약시 알림이 정상 발송이 안되는 오류 존재, 또한 라인 알림 서비스 만료에 맞춰 마이그레이션 필요)
 
-3. reservation_info 배열에 예약 정보 추가하기 (ReservationInfo 객체)
+3. loginId, password 에 본인 로그인 정보 입력하기
+
+4. reservation_info 배열에 예약 정보 추가하기 (ReservationInfo 객체)
    - duration_hour 은 구간 설정 => start_time = '170000', duration_hour = 2 이면 17시 부터 19시 사이를 탐색하는 것
 
 etc.
